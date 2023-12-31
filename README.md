@@ -24,7 +24,6 @@ In this lab, you will learn how to:
 - Write SQL queries to answer specific questions on your dataset and run your queries with Amazon Athena.
 - Produce and select different plots and visualizations that address your questions.
 
-!A screenshot of a plot showing the distribution of ratings by age group
 
 ### Lab 2: Detect data bias with Amazon SageMaker Clarify
 
@@ -36,7 +35,6 @@ In this lab, you will learn how to:
 - Analyze bias at scale with a Amazon SageMaker processing job and Clarify.
 - Analyze bias reports before and after balancing the dataset.
 
-!A screenshot of a bias report showing the pre-training bias metrics
 
 ### Lab 3: Train a model with Amazon SageMaker Autopilot
 
@@ -51,7 +49,6 @@ In this lab, you will learn how to:
 - Review all output.
 - Deploy and test best candidate model.
 
-!A screenshot of the Autopilot job summary showing the best candidate model
 
 ### Lab 4: Train a text classifier using Amazon SageMaker BlazingText built-in algorithm
 
@@ -62,7 +59,6 @@ In this lab, you will learn how to:
 - Deploy the model.
 - Test the model.
 
-!A screenshot of the model testing results showing the accuracy and confusion matrix
 
 ## Build, Train, and Deploy ML Pipelines using BERT
 
@@ -77,7 +73,6 @@ In this lab, you will learn how to:
 - Inspect the transformed data.
 - Query the Feature Store.
 
-!A screenshot of the Feature Store showing the online and offline features
 
 ### Lab 2: Train a review classifier with BERT and Amazon SageMaker
 
@@ -90,7 +85,6 @@ In this lab, you will learn how to:
 - Analyze debugger results.
 - Deploy and test the model.
 
-!A screenshot of the debugger showing the tensor distribution
 
 ### Lab 3: SageMaker pipelines to train a BERT-Based text classifier
 
@@ -106,7 +100,6 @@ In this lab, you will learn how to:
 - List pipeline artifacts.
 - Approve and deploy model.
 
-!A screenshot of the pipeline showing the steps and the status
 
 ## Optimize ML Models and Deploy Human-in-the-Loop Pipelines
 
@@ -120,7 +113,6 @@ In this lab, you will learn how to:
 - Configure and run hyper-parameter tuning job.
 - Evaluate the results.
 
-!A screenshot of the tuning job showing the best training job
 
 ### Lab 2: A/B testing, traffic shifting and autoscaling
 
@@ -132,7 +124,6 @@ In this lab, you will learn how to:
 - Shift all traffic to one variant.
 - Configure one variant to autoscale.
 
-!A screenshot of the endpoint showing the traffic distribution and the autoscaling policy
 
 ### Lab 3: Data labeling and human-in-the-loop pipelines with Amazon Augmented AI (A2I)
 
