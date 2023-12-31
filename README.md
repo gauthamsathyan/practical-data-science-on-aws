@@ -1,1 +1,1 @@
-# practical-data-science-on-aws
+# Practical-Data-Science-on-AWS
